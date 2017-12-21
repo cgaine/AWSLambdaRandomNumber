@@ -14,8 +14,6 @@ namespace AWSLambdaRandomNumber
     public class Function
     {
 
-        private int min = 0;
-        private int max = 10;
         /// <summary>
         /// A simple function that takes a string and does a ToUpper
         /// </summary>
