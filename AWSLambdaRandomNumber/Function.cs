@@ -14,6 +14,9 @@ namespace AWSLambdaRandomNumber
     public class Function
     {
 
+
+        // This is a test
+
         /// <summary>
         /// A simple function that takes a string and does a ToUpper
         /// </summary>
